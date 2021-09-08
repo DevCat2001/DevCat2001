@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andrea👋</h1>
-<h3 align="center">I'm a passionate Web Developer from Italy.</h3>
+<h3 align="center">I'm an enthusiast Web Developer from Italy.</h3>
 
 ## 🙋‍♂️ About Me
 
