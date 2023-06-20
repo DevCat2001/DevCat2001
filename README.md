@@ -3,10 +3,10 @@
 
 ## 🙋‍♂️ About Me
 
- - 🌳 Job Skills: HTML, CSS, JavaScript, PHP, MySQL
+ - 🌳 Job Skills: Ionic, Angular, React, PHP, MySQL
  - 🌱 Other Skills: C, C++, Java, Python, SASS
- - 💡 Interested in: React.js, Node.js, Vue.js, Angular.js
- - 🔭 Curious About: Rust, GoLang, Wordpress, Prestashop, Liferay
+ - 💡 Interested in: C#, Java, Vue.js, Rust, GoLang
+ - 🔭 Curious About: Wordpress, Prestashop
 
 ## 🌐Connect with me:
 <a href = "https://www.linkedin.com/in/andrea-grieco-2001/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
